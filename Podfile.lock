@@ -1,0 +1,12 @@
+PODS:
+  - LittleFinger (0.1.0)
+
+DEPENDENCIES:
+  - LittleFinger (~> 0.1.0)
+
+SPEC CHECKSUMS:
+  LittleFinger: b17f8400509ca52c51183843233097823f8385db
+
+PODFILE CHECKSUM: e202bfd501f59adfb9b9a8bea5ec1f037f80031b
+
+COCOAPODS: 1.2.0
